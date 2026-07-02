@@ -1,6 +1,6 @@
 # Nasir Aigoro
 
-Computer Science undergraduate at the University of Surrey (BSc, 2025–2028).
+Computer Science undergraduate at the University of Surrey.
 Building backend systems in Java and Spring Boot. Interested in distributed systems,
 event-driven architecture, and shipping things that actually get used.
 
